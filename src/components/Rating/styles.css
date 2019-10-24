@@ -1,0 +1,11 @@
+.ratings {
+  margin: 5px;
+  display: flex;
+}
+
+.ratings p {
+  color: #666;
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 5px;
+}
