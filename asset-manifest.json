@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-free-courses/static/css/main.9b4f627b.chunk.css",
+    "main.js": "/udemy-free-courses/static/js/main.a56aa964.chunk.js",
+    "main.js.map": "/udemy-free-courses/static/js/main.a56aa964.chunk.js.map",
+    "runtime-main.js": "/udemy-free-courses/static/js/runtime-main.768e609c.js",
+    "runtime-main.js.map": "/udemy-free-courses/static/js/runtime-main.768e609c.js.map",
+    "static/js/2.c2e077af.chunk.js": "/udemy-free-courses/static/js/2.c2e077af.chunk.js",
+    "static/js/2.c2e077af.chunk.js.map": "/udemy-free-courses/static/js/2.c2e077af.chunk.js.map",
+    "index.html": "/udemy-free-courses/index.html",
+    "precache-manifest.754d9f364b6c406b1c16f9341589b29f.js": "/udemy-free-courses/precache-manifest.754d9f364b6c406b1c16f9341589b29f.js",
+    "service-worker.js": "/udemy-free-courses/service-worker.js",
+    "static/css/main.9b4f627b.chunk.css.map": "/udemy-free-courses/static/css/main.9b4f627b.chunk.css.map",
+    "static/media/styles.css": "/udemy-free-courses/static/media/magnifying-glass.0e7feb70.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.768e609c.js",
+    "static/js/2.c2e077af.chunk.js",
+    "static/css/main.9b4f627b.chunk.css",
+    "static/js/main.a56aa964.chunk.js"
+  ]
+}
